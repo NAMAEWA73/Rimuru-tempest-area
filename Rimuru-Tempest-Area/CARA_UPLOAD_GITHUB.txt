@@ -1,0 +1,8 @@
+1. Buat repository GitHub: Rimuru-Tempest-Area
+2. Upload seluruh isi folder proyek ini.
+3. Masuk ke tab Actions.
+4. Jalankan workflow "Build Rimuru APK".
+5. Setelah selesai, download artifact APK.
+6. Install APK di Android.
+
+Jika Android Studio meminta Gradle Wrapper, buka proyek dan gunakan opsi Generate/Sync Gradle yang tersedia.
